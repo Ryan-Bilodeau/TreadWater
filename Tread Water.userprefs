@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{3337F30A-3BD3-1F4B-9C23-52A55540BD20}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NotAttached/PPKeys.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameStateManager.cs" Line="35" Column="27" />
+      <File FileName="Assets/Scripts/Scene0MenuObjects.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DayNightManager.cs" Line="51" Column="83" />
+      <File FileName="Assets/Scripts/Scene1MainObjects.cs" Line="46" Column="22" />
+      <File FileName="Assets/Scripts/ButtonManager.cs" Line="38" Column="53" />
+      <File FileName="Assets/Scripts/NotAttached/PPKeys.cs" Line="11" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Tread_220Water PreferredExecutionTarget="Unity.Editor" />
+</Properties>
